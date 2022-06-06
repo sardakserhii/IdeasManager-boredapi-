@@ -1,0 +1,21 @@
+.ideaList {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.idea {
+  display: flex;
+  flex-direction: column;
+  width: 23%;
+
+  padding: 15px;
+  border: 2px solid red;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.idea:not(:last-child) {
+  margin-right: 15px;
+}

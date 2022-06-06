@@ -1,0 +1,11 @@
+.achivmentsContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.card {
+  padding: 10px;
+  border: 2px solid fuchsia;
+  border-radius: 50%;
+}
