@@ -1,9 +1,13 @@
-# Getting Started with Create React App
+# App for manage ideas.
+## Получение свежих идей с boredapi.com , сохранение в MongoDB, изменение статуса выполнения полученнной идеи, подсчет достяжений в разрезе типа. 
 
 - HTML
-- CSS (flexbox)
+- CSS
+- Bootstrap(React)
 - React
 - Redux
-- Thunk
+- Redux-Thunk
 - Axios
 - Moment
+- Expressjs
+- Mongodb
